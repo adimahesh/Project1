@@ -1,0 +1,13 @@
+3.a. Write a program to add and multiply complex numbers 
+    b. Write a program to add, transpose and multiply two matrices. 
+ 
+4.a. Write a program to define a function with multiple return values. 
+    b. Python program to print each line of a file in reverse order. 
+ 
+5.a. Write a program to sum all the items in a given dictionary. 
+    b. Write a Program to display all prime numbers within an interval 
+ 
+6.a. Write a program to perform the given operations on a list:  Addition 
+    b. Write a Python program to create a class that represents a shape. Include methods to 
+calculate its area and perimeter. Implement subclasses for different shapes like circle, 
+triangle square 
